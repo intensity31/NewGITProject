@@ -1,9 +1,8 @@
 package App;
 
-public class Test3 {
-
+public class Test7 {
 	public static void main(String[] args) {
-		System.out.println("Test4");
-	}
+		System.out.println("Test5");
 
+	}
 }
